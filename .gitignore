@@ -1,2 +1,11 @@
+# Repo-wide ignore rules. Per-developer editor rules belong in a global gitignore.
+
+# build output
 out/
+
+# logs
 *.log
+
+# editor swap files
+*.sw?
+*~
