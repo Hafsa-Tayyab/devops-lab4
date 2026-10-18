@@ -1,2 +1,9 @@
+# build output
 out/
+
+# logs
 *.log
+
+# editor swap files
+*.swp
+*~
